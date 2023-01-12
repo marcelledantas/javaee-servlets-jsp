@@ -1,0 +1,3 @@
+Set up Intellij
+https://www.jetbrains.com/help/idea/configuring-and-managing-application-server-integration.html
+https://www.jetbrains.com/help/idea/run-debug-configuration-tomcat-server.html
